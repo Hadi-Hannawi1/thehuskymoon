@@ -10,11 +10,11 @@ export default function Hero() {
 
   return (
     <section className="hero" ref={ref}>
-  <div className="hero-background"></div>
-  <div className="container">
-    <div className="demo-banner">
-      <p>📍 This is a quick demo of The Husky Pack concept. The actual community structure will be customized based on Brittany & Mark's feedback before launch.</p>
-    </div>
+      <div className="hero-background"></div>
+      <div className="container">
+        <div className="demo-banner">
+          <p>📍 This is a quick demo of The Husky Pack concept. The actual community structure will be customized based on Brittany & Mark's feedback before launch.</p>
+        </div>
 
         <div className={`hero-content ${inView ? 'fade-in-up' : ''}`}>
           <h1>The Husky Pack.<br />Your pack just got bigger.</h1>
@@ -31,7 +31,6 @@ export default function Hero() {
           </div>
 
           <a href="https://whop.com/the-husky-pack/the-husky-pack-a8/" className="cta-primary">
-
             Join The Husky Pack
           </a>
 
