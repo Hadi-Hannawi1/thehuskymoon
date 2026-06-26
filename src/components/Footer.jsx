@@ -19,7 +19,8 @@ export default function Footer() {
             <h4>Resources</h4>
             <ul>
               <li><a href="https://thehuskymethod.com">The Husky Method</a></li>
-              <li><a href="https://whop.com/thehuskypack/">Join The Pack</a></li>
+              <li><a href="https://whop.com/the-husky-pack/the-husky-pack-a8/">Join The Pack</a></li>
+
               <li><a href="mailto:Thesiberianhuskymoon@gmail.com">Contact Us</a></li>
             </ul>
           </div>

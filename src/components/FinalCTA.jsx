@@ -14,7 +14,8 @@ export default function FinalCTA() {
         <div className={`cta-content ${inView ? 'fade-in-up' : ''}`}>
           <h2>Ready to Join the Pack?</h2>
           <p>$9/month. First 100 members lock in the founding rate.</p>
-          <a href="https://whop.com/thehuskypack/" className="cta-primary cta-large">
+          <a href="https://whop.com/the-husky-pack/the-husky-pack-a8/" className="cta-primary cta-large">
+
             Join The Husky Pack Now
           </a>
           <p className="cta-fine-print">Founding members keep $9/month forever. Cancel anytime.</p>

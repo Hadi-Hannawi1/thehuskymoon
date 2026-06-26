@@ -32,7 +32,8 @@ export default function Header({ scrollPos }) {
           <span></span>
         </button>
 
-        <a href="https://whop.com/thehuskypack/" className="header-cta">
+        <a href="https://whop.com/the-husky-pack/the-husky-pack-a8/" className="header-cta">
+
           Join Now
         </a>
       </div>
